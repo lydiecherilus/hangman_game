@@ -1,0 +1,1 @@
+words = ["mouse", "eagle", "llama", "cheetah", "zebra", "horse", "cat", "dog", "pig", "cow", "snake", "sheep", "tiger", "lion"]
